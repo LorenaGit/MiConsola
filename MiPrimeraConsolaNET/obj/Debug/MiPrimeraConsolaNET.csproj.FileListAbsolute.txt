@@ -1,0 +1,6 @@
+C:\Users\Lorena\Desktop\ejemplos .net\MiPrimeraConsolaNET\MiPrimeraConsolaNET\bin\Debug\MiPrimeraConsolaNET.exe.config
+C:\Users\Lorena\Desktop\ejemplos .net\MiPrimeraConsolaNET\MiPrimeraConsolaNET\bin\Debug\MiPrimeraConsolaNET.exe
+C:\Users\Lorena\Desktop\ejemplos .net\MiPrimeraConsolaNET\MiPrimeraConsolaNET\bin\Debug\MiPrimeraConsolaNET.pdb
+C:\Users\Lorena\Desktop\ejemplos .net\MiPrimeraConsolaNET\MiPrimeraConsolaNET\obj\Debug\MiPrimeraConsolaNET.csprojResolveAssemblyReference.cache
+C:\Users\Lorena\Desktop\ejemplos .net\MiPrimeraConsolaNET\MiPrimeraConsolaNET\obj\Debug\MiPrimeraConsolaNET.exe
+C:\Users\Lorena\Desktop\ejemplos .net\MiPrimeraConsolaNET\MiPrimeraConsolaNET\obj\Debug\MiPrimeraConsolaNET.pdb
